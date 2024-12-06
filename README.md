@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Abhi Charan Reddy Vennapusa     
 
-<!--
-**Charan662/Charan662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+Hey there! I’m Abhi Charan Reddy, a third-year Computer Science Student at Acharya Institute of Management & Sciences with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirants. Let’s dive in!
+Skills & Interests: 
+•	Programming Languages: Python, C, Java, HTML, CSS, JavaScript
+•	Frameworks/Libraries: Bootstrap, Django, NumPy, Pandas
+•	Databases: SQL, MySQL
+•	Data Structures & Algorithms: Structuring information for efficiency
+•	Developer Tools: Git/GitHub, Jupiter Notebook
+•	Interests: Problem-solving, Competitive Programming, Open-Source Contributions  
+Connect With Me:
+•	Email: abhicharanreedy143@gmail.com
+•	LinkedIn: https:// www.linkedin.com/in/abhi-charan-reddy-vennapusa
+•	GitHub: https://github.com/Charan662
