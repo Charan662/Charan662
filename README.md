@@ -16,5 +16,5 @@ Skills & Interests:
 Connect With Me:
 
 •	Email: abhicharanreedy143@gmail.com      
-•	LinkedIn: https:// www.linkedin.com/in/abhi-charan-reddy-vennapusa         
+•	LinkedIn: https://www.linkedin.com/in/abhi-charan-reddy-vennapusa         
 •	GitHub: https://github.com/Charan662
