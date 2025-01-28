@@ -7,7 +7,7 @@ Hey there! I’m Abhi Charan Reddy, a third-year Computer Science Student at Ach
 Skills & Interests:
 
 •	Programming Languages: Python, C, Java, HTML, CSS, JavaScript           
-•	Frameworks/Libraries: Bootstrap, Django, NumPy, Pandas        
+•	Frameworks/Libraries: Bootstrap, Django,Pandas        
 •	Databases: SQL, MySQL        
 •	Data Structures & Algorithms: Structuring information for efficiency       
 •	Developer Tools: Git/GitHub, Jupiter Notebook       
