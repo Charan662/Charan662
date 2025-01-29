@@ -17,6 +17,8 @@ Hey there! I'm Abhi Charan Reddy, a third-year Computer Science student at AIMS 
 
 ### Projects:
 
+-**Music-Player** : A dynamic music player with interactive playist managament, audio controls, and volume adjustments.[Project Link](https://github.com/charan662/Music-Player.git)
+
 - **Password Generator** : This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack. [Project Link](https://github.com/charan662/Password-Generator.git)
 
 - **E-Commerce-Website** : A simple e-commerce website built with HTML, CSS, and JavaScript, allowing users to browse products, add to cart, and proceed to a simulated checkout process. [Project Link](https://github.com/charan62/E-Commerce-Website)
