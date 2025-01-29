@@ -1,4 +1,4 @@
-Hi, I’m Abhi Charan Reddy Vennapusa     
+Hi, I’m Abhi Charan Reddy Vennapusa  
 
 About Me
 
