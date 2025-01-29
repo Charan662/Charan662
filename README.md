@@ -1,24 +1,31 @@
-Hi, I’m Abhi Charan Reddy Vennapusa  
 
-About Me
+# Hi, I'm Abhi Charan Reddy Vennapusa
 
-Hey there! I’m Abhi Charan Reddy, a third-year Computer Science Student at Acharya Institute of Management & Sciences with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirants. Let’s dive in!
+## About Me
 
-Skills & Interests:
+Hey there! I'm Abhi Charan Reddy, a third-year Computer Science student at AIMS INSTITUTES College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
-•	Programming Languages: Python, C, Java, HTML, CSS, JavaScript           
-•	Frameworks/Libraries: Bootstrap, Django,Pandas        
-•	Databases: SQL, MySQL        
-•	Data Structures & Algorithms: Structuring information for efficiency       
-•	Developer Tools: Git/GitHub, Jupiter Notebook       
-•	Interests: Problem-solving, Competitive Programming, Open-Source Contributions  
+### Skills & Interests:
 
-Connect With Me:
+- **Programming Languages**          : Python, Java, C
+- **Frontened Languages**            : HTML, CSS, JavaScript(Basic Knowledge)
+- **Databases**                      : MySQL, SQL
+- **Data Structures & Algorithms**   : Structuring Information for efficiency
+- **Developer Tools**                : Git/Github, VS Code
+- **Academic Coursework**            : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
+- **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 
-•	Email: abhicharanreedy143@gmail.com      
-•	LinkedIn: https://www.linkedin.com/in/abhi-charan-reddy-vennapusa         
-•	GitHub: https://github.com/Charan662
+### Projects:
 
-Feedback Welcome :
+- **Password Generator** : This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack. [Project Link](https://github.com/charan662/Password-Generator.git)
 
-I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
+- **Snake Game** : A classic Snake Game built with Pygame, featuring continuous snake movement, random food items, and edge wrapping. Players control the snake using arrow keys to eat food and grow longer. Developed using Python and Pygame for a fun and nostalgic gaming experience. [Project Link](https://github.com/charan662/Snake-Game.git)
+
+### Connect with Me:
+
+- Email: abhicharan1623@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abhi-charan-reddy-vennapusa
+- GitHub: https://github.com/charan662
+
+### Feedback Welcome :
+- I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
